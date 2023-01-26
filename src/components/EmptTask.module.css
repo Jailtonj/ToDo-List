@@ -1,0 +1,25 @@
+.empttask {
+    width: 100%;
+    text-align: center;
+    line-height: 140%;
+}
+
+.clipboardText {
+    margin-top: 4rem;
+    color: var(--gray-300);
+}
+
+.empttask p:first-of-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    color: var(--gray-300);
+}
+
+.empttask p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: var(--gray-300);
+}
